@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+}
+.nav{
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    position: sticky;
+    top: 10px;
+}
+.details{
+    padding: 10px;
+    color: gray;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.nav h1{
+    position: absolute;
+    left: 0px;
+}
+.sepration{
+    height: 2px;
+    background-color: rgb(46, 44, 44);
+    position: relative;
+    top: 0px;
+}
+.circles{
+    position: relative;
+    width: 113px;
+    height: 111px;
+    background: #0F0F0F;
+    border-radius: 50%;
+    display: inline-table;
+    margin: 54px;
+}
