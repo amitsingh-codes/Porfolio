@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&display=swap');
+
 *{
     background-color: black;
 }
@@ -15,6 +17,7 @@
     color: gray;
     margin-top: 0px;
     margin-left: 10px;
+    font-family: 'Inknut Antiqua';
 }
 .nav h1{
     position: absolute;
@@ -24,7 +27,7 @@
     height: 2px;
     background-color: rgb(46, 44, 44);
     position: relative;
-    top: 0px;
+    top: -20px;
 }
 .circles{
     position: relative;
@@ -38,11 +41,11 @@
 
 .line{
     position: relative;
-    width: 675px;
+    width: 660px;
     height: 0px;
     border: 1px solid #FFFFFF;
     transform: rotate(90deg);
-    top: 338px;
+    top: 310px;
     left: 421px;
 
 }
