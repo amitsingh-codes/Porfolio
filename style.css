@@ -35,3 +35,14 @@
     display: inline-table;
     margin: 54px;
 }
+
+.line{
+    position: relative;
+    width: 675px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+    top: 338px;
+    left: 421px;
+
+}
